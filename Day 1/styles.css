@@ -1,0 +1,12 @@
+.calculator_format {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 1px solid;
+    height: 100px;
+}
+
+.first_number, .second_number{
+    width: 100px;
+}
