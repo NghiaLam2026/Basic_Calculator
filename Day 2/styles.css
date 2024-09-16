@@ -1,0 +1,15 @@
+.calculator_format{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.total_amount, .tip_amount{
+    width: 300px;
+}
+
+.tip_button{
+    width: 150px;
+}
