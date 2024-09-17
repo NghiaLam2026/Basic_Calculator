@@ -1,0 +1,13 @@
+.counter_format{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.number_count{
+    border: 1px solid;
+    width: 100px;
+    text-align: center;
+}
