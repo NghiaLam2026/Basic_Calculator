@@ -24,12 +24,3 @@ This project is a simple JavaScript-based countdown timer. It allows the user to
 The project demonstrates key JavaScript concepts such as DOM manipulation, event handling, intervals, and conditional logic, making it a useful practice for building interactive web applications.
 
 ---
-
-### Sample Code:
-
-```javascript
-const start_button = document.querySelector(".start_button");
-const reset_button = document.querySelector(".reset_button");
-const five_second_button = document.querySelector(".five_second");
-const seconds = document.querySelector(".seconds");
-le
