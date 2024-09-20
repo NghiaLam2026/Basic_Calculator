@@ -1,0 +1,25 @@
+.timer_format{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    gap: 10px;
+}
+
+.timer_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+}
+
+.start_button, .five_second, .reset_button{
+    width: 50px;
+    border-radius: 5px;
+}
+
